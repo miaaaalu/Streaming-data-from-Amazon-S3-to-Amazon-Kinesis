@@ -1,4 +1,5 @@
 # Kinesis Demo 
+![screenshot](KinesisDemo.jpg)
 
 ### STEP 1 Create Data Stream 
 ```powershell
