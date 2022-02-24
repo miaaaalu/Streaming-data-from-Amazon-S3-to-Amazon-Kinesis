@@ -1,6 +1,8 @@
 # Kinesis Demo 
 ![screenshot](KinesisDemo.jpg)
 
+![alt text](https://github.com/miaaaalu/Kinesis-demo/blob/master/KinesisDemo.jpg?raw=true)
+
 ### STEP 1 Create Data Stream 
 ```powershell
 1. Data stream name: my-data-stream
